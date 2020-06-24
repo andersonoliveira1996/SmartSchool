@@ -24,7 +24,6 @@ namespace SmartSchool.API.Controllers
         }
 
 
-
         // GET: api/<Aluno>
         [HttpGet]
         public IActionResult Get()
